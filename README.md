@@ -1,5 +1,5 @@
-# Hands-on-basic-maloca-icoisas
-Projeto Básico Hands Maloca das iCoisas
+# Hands-on-basic-maloca-icoisas-Controle-de-acesso-de-segurança
+Projeto Básico Hands Maloca das iCoisas - Projeto 2
 
 ###  Organogama
 Product Owner: Marcelle Urquiza
