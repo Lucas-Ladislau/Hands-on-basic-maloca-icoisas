@@ -4,7 +4,7 @@ Projeto Básico Hands Maloca das iCoisas
 ###  Organogama
 Product Owner:
 
-Scrum Master: Letícia Maiel
+Scrum Master: Leticia Maiel
 
 Desenvolvedor: Eduardo Izidorio
 
